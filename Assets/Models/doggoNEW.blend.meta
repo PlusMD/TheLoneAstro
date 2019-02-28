@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 7ba1cf5d93de11b438d436b152aedcd2
+timeCreated: 1517082321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armeture
+    100002: Back_Left_Foot
+    100004: Back_Right_Foot_001
+    100006: BackLeftLowerLeg
+    100008: BackLeftShoulder
+    100010: BackLeftUpperLeg
+    100012: BackRightLowerLeg_001
+    100014: BackRightShoulder_001
+    100016: BackRightUpperLeg_001
+    100018: Bone
+    100020: //RootNode
+    100022: FrontLeftFoot
+    100024: FrontLeftLowerLeg
+    100026: FrontLeftShoulder
+    100028: FrontLeftUpperLeg
+    100030: FrontRightFoot_001
+    100032: FrontRightLowerLeg_001
+    100034: FrontRightShoulder_001
+    100036: FrontRightUpperLeg_001
+    100038: Head
+    100040: Neck
+    100042: Plane
+    100044: SpineEnd
+    100046: SpineMiddle
+    100048: SpineNearNeck
+    100050: TailEnd
+    100052: TailMiddle
+    100054: TailStart
+    100056: TailTop
+    400000: Armeture
+    400002: Back_Left_Foot
+    400004: Back_Right_Foot_001
+    400006: BackLeftLowerLeg
+    400008: BackLeftShoulder
+    400010: BackLeftUpperLeg
+    400012: BackRightLowerLeg_001
+    400014: BackRightShoulder_001
+    400016: BackRightUpperLeg_001
+    400018: Bone
+    400020: //RootNode
+    400022: FrontLeftFoot
+    400024: FrontLeftLowerLeg
+    400026: FrontLeftShoulder
+    400028: FrontLeftUpperLeg
+    400030: FrontRightFoot_001
+    400032: FrontRightLowerLeg_001
+    400034: FrontRightShoulder_001
+    400036: FrontRightUpperLeg_001
+    400038: Head
+    400040: Neck
+    400042: Plane
+    400044: SpineEnd
+    400046: SpineMiddle
+    400048: SpineNearNeck
+    400050: TailEnd
+    400052: TailMiddle
+    400054: TailStart
+    400056: TailTop
+    2100000: unnamed
+    4300000: Plane
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
